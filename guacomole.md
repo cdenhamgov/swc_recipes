@@ -4,3 +4,5 @@
 * Jalapeno
 * Salt
 ## Instructions
+* The lemon is optional.
+
